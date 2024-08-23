@@ -1,0 +1,35 @@
+.map_wrapper {
+    max-width: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.map_container .map_render {
+    height: 100%;
+}
+
+.map_wrapper .map_container {
+    /* position: absolute;
+    top: 0;
+    margin: auto; */
+   /*  left: 0;
+    bottom: 0;
+    right: 0; */
+}
+
+.map_wrapper .map_aspect_ratio {
+    max-width: 100%;
+    width: 100%;
+    position: relative;
+    height: auto;
+    margin: auto;
+}
+
+.svg-div .main-svg {
+    min-height: 350px!important;
+    margin: auto;
+}
+#map_819 {
+    height: 400px;
+    margin: auto;
+}
