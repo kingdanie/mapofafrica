@@ -3,8 +3,9 @@
 /**
  * Plugin Name: Map Of Africa
  * Description: An Interactive Map that shows the active location of the company.
- * Version: 1.0
- * Author: Danie D'mola
+ * Plugin URI:      https://jorionng.com
+ * Version: 1.0.0
+ * Author: Jorion Tech
  */
 
 // Enqueue necessary scripts and styles
