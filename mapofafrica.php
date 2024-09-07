@@ -41,7 +41,7 @@ add_action('wp_enqueue_scripts', 'map_of_africa_plugin_enqueue_scripts');
 function map_of_africa_shortcode()
 {
     ob_start();
-?>
+    ?>
     <div>
         <div class="textwidget" style="position: relative; max-width: 100%;">
             <div class="map_wrapper" id="map_wrapper_819" style="position: relative;">
@@ -649,7 +649,7 @@ function map_of_africa_shortcode()
             </div>
         </div>
     </div>
-<?php
+    <?php
     return ob_get_clean();
 }
 
